@@ -1,8 +1,8 @@
 /**
- * @name New Rem Theme
+ * @name New Felix Theme
  * @author ShadowDevilsAvenged
- * @description Newer Rem theme for my return
- * @version 5.1
+ * @description Newer Rem theme but i changed bg to Felix
+ * @version 1
  */
 
  .app-2CXKsg {
@@ -1776,7 +1776,10 @@
 .modeSelected-3DmyhH .icon-2W8DHg, .modeSelected-3DmyhH:hover .icon-2W8DHg, .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV {
     color: white;
 }
-
+.theme-dark .form-3gdLxP:before {
+    	background: -webkit-gradient(linear,left top,left bottom,from(rgb(54 57 63 / 0%)),to(rgba(0, 0, 0, 0)));
+	background-color: rgba(0, 0, 0, 0);
+}
 .modeUnread-3Cxepe .icon-2W8DHg, .modeUnread-3Cxepe:hover .icon-2W8DHg, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV {
     color: lightcoral;
 }
