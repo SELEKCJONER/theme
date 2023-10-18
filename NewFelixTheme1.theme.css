@@ -4381,3 +4381,12 @@ background-color: #1f3dff
     flex: 1 1 auto;
     background: rgb(0 0 0 / 0%)!important;
 }
+.form-3qe0Ni:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: .5rem;
+    width: 1.25rem;
+    display: none;
+}
