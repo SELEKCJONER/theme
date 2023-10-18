@@ -4224,3 +4224,119 @@ InnerThemedWithBanner-25XGmz,
 background-color: #4a5edd
 background-color: #1f3dff
 */
+
+.messagesWrapper-RpOMA3, .scrollerContent-2SW0kQ {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: rgb(0 0 0 / 0%);
+}
+.scroller-kQBbkU {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0 0 0 / 0%);
+}
+
+.scrollerContent-2SW0kQ {
+    overflow-anchor: none;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    min-height: 100%;
+    background-color: rgb(0 0 0 / 0%);
+}
+.scrollerSpacer-3AqkT9 {
+    display: block;
+    height: 30px;
+    width: 1px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    pointer-events: none;
+    background-color: rgb(0 0 0 / 0%);
+}
+
+.layerContainer-2lfOPe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: var(--devtools-sidebar-width,0);
+    bottom: 0;
+    background: none!important;
+    pointer-events: none;
+    z-index: 1002;
+    background-color: rgb(0 0 0 / 0%)!important;
+}
+.container-3H3gr7 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0 0 0 / 0%)!important;
+}
+.content-18rAwf {
+    min-width: 0;
+    min-height: 0;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: stretch;
+    -ms-flex-pack: stretch;
+    justify-content: stretch;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    position: relative;
+    background-color: rgb(0 0 0 / 0%)!important;
+}
+.chat-9g_3Xj {
+    min-width: 0;
+    min-height: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    background: var(--bg-overlay-chat,var(--background-primary));
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    background-color: rgb(0 0 0 / 0%)!important;
+}
+
+.form-3qe0Ni {
+    position: relative;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: -8px;
+    background-color: rgb(0 0 0 / 0%)!important;
+}
+.channelTextArea-1deLlK {
+    margin-bottom: 24px;
+    background-color: rgba(0,0,0,.25) !important;
+}
