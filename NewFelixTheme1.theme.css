@@ -4404,3 +4404,11 @@ background-color: #1f3dff
     margin-bottom: 1px;
     background: rgb(0 0 0 / 25%)!important;
 }
+
+foreignObject[Attributes Style] {
+    x: 0;
+    y: 0;
+    width: 32;
+    height: 32;
+    mask: none !important;
+}
