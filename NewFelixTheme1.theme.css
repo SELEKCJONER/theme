@@ -4363,5 +4363,5 @@ background-color: #1f3dff
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    background-color: rgb(0 0 0 / 0%)!important;
+    background: rgb(0 0 0 / 0%)!important;
 }
