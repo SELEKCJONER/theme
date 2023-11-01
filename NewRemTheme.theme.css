@@ -4362,3 +4362,6 @@ background-color: #1f3dff
 .avatarHintInner__3d1c9 {
     border-radius: 50%;
 }
+.avatarWrapper_f77579 foreignObject, .avatarHint-k7pYop foreignObject, .avatar__445f3 foreignObject {
+    mask: url(#svg-mask-avatar-status-round-80);
+}
