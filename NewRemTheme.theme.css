@@ -4356,7 +4356,7 @@ background-color: #1f3dff
     -o-object-fit: cover;
     object-fit: cover;
     pointer-events: none;
-    border-radius: 50%;
+    border-radius: 50% !important;
 }
 
 .avatarHintInner__3d1c9 {
