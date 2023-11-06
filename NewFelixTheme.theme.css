@@ -4648,8 +4648,12 @@ background-color: #1f3dff
     background-color: transparent;
     backdrop-filter: blur(1px);
 }
-/*
-.wrapper_edb6e0 , foreignObject{
-mask:none;
+.content__72fdc {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    color: rgb(148, 206, 230);
 }
-*/
