@@ -4784,3 +4784,9 @@ background-color: #1f3dff
     background-color: rgba(0,0,0,0.4);
     backdrop-filter: blur(1px);
 }
+.modeUnreadImportant_efb53e .icon_eff5d4, .modeUnreadImportant_efb53e:hover .icon_eff5d4, .modeUnreadImportant_efb53e .name__8d1ec, .modeUnreadImportant_efb53e:hover .name__8d1ec {
+    color: lightcoral;
+}
+.unreadImportant_c775b3 {
+    background-color: transparent;
+}
