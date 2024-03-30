@@ -4161,7 +4161,19 @@ button.button_ae40a4.enabled__214db:hover {
 /* Link Color */
 .link-color {color: #94CEE6;}
 
+.thin_b1c063.fade_ba0fa0.scrolling__5bc92, .thin_b1c063.fade_ba0fa0:hover {
+    scrollbar-color: unset;
+}
+.thin_b1c063 {
+    scrollbar-width: unset; 
+    scrollbar-color: unset; 
+}
 
+
+.auto__020ac {
+    scrollbar-width: unset;
+    scrollbar-color: unset;
+}
 /* Blue Color
 background-color: #4a5edd
 background-color: #1f3dff
